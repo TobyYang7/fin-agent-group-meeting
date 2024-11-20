@@ -35,5 +35,5 @@
 
 | Date       | Link                                                         |
 | ---------- | ------------------------------------------------------------ |
-| 2024-11-20 | [Link](https://docs.google.com/presentation/d/18yvclljKvTeBrHi3gd13QDpfq7Buq7OvkX_V2w7yVW4/edit#slide=id.p) |
+| 2024-11-20 | [Link](https://docs.google.com/presentation/d/1iHG1xPSXGvCqb2gNOoU0XiCSWRlKQ3NXk6x9DsVFhWw/edit#slide=id.g3182a77cb99_0_58) |
 
